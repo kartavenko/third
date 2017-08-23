@@ -10,7 +10,7 @@ def my():
     pass
 # ужне не только pass
     for i in range(10):
-        print(i, end=" ")
+        print(i+1, end=" ")
     print()
 
 my()
