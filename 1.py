@@ -2,11 +2,15 @@
 
 print("ляляля, жужужу")
 
-def my()
+def my():
     """
     моя первая документ-строка
     :rtype: object
     """
     pass
+# ужне не только pass
+    for i in range(10):
+        print(i, end=" ")
+    print()
 
 my()
